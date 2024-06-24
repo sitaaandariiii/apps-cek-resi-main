@@ -4,9 +4,10 @@
 
 # Kelompok 4:
 
-Sita Sri Andari 2106050
-Neng Putri Nurazizah 2106092
-Siti Sarah Annashriyah 2106046
+# Sita Sri Andari 2106050
 
-A new Flutter project.
+# Neng Putri Nurazizah 2106092
+
+# Siti Sarah Annashriyah 2106046
+
 
