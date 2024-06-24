@@ -1,4 +1,4 @@
-# Projek_UAS_Mobile
+# Projek_UAS_Pemrograman Mobile
 
 # aplikasi_cek_resi
 
